@@ -1,4 +1,4 @@
-# FannieMae_Mortgage_Prediction
+# Mortgage Prediction
 The housing market is the backbone of the US economy, accounting for 15-18% of the GDP. Mortgages, which are secured by real estate property, are the most common way for Americans to own a home. However, foreclosure - a legal process where the lender recovers the property - can be devastating for borrowers. It also affects lenders, with major banks setting aside billions of dollars for current and future loan losses. This not only impacts bank earnings but also harms investors who face stricter regulations since the financial crisis of 2007-2008.
 
 To mitigate the risk of mortgage delinquencies, an analysis of publicly available data can help understand the factors that influence loan default in the first two years of a mortgage's lifespan. By analyzing Fannie Mae loan data from 2013Q1 to 2018Q4 and building machine learning models, it is possible to predict the likelihood and timing of mortgage defaults. Using a combination of classifiers and survival analysis methods provides a time-dependent analysis of probabilities for default and active loans.
